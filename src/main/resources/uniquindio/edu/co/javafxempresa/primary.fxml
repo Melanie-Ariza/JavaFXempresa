@@ -4,7 +4,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uniquindio.edu.co.empresajavafx.viewController.PrimaryController">
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uniquindio.edu.co.javafxempresa.viewController.PrimaryController">
     <children>
         <Label text="Bienvenido a la empresa" />
         <Button fx:id="primaryButton" onAction="#onOpenCrudCliente" text="Gestión de clientes" />
