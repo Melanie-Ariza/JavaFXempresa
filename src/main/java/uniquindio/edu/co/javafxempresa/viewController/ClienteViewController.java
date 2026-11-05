@@ -8,9 +8,9 @@ import javafx.scene.control.Button;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
-import uniquindio.edu.co.empresajavafx.App;
-import uniquindio.edu.co.empresajavafx.controller.ClienteController;
-import uniquindio.edu.co.empresajavafx.model.Cliente;
+import uniquindio.edu.co.javafxempresa.App;
+import uniquindio.edu.co.javafxempresa.controller.ClienteController;
+import uniquindio.edu.co.javafxempresa.model.Cliente;
 
 import java.net.URL;
 import java.util.ResourceBundle;

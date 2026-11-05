@@ -2,7 +2,7 @@ package uniquindio.edu.co.javafxempresa.viewController;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import uniquindio.edu.co.empresajavafx.App;
+import uniquindio.edu.co.javafxempresa.App;
 
 import java.net.URL;
 import java.util.ResourceBundle;
